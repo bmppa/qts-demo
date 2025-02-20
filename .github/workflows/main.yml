@@ -1,3 +1,4 @@
+name: Image Scan
 on: [ workflow_dispatch ]
 
 env:
